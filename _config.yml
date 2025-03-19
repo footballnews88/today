@@ -1,0 +1,19 @@
+title: "Footballnews88"
+description: "Footballnews88 - Berita, informasi, dan update terkini dari seluruh dunia"
+url: "https://footballnews88.github.io"
+baseurl: "/today"  # Jika ada di subfolder
+
+# Plugin
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-minifier
+  - jekyll-amp
+  - jekyll-compress-images
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
